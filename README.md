@@ -7,3 +7,6 @@
 5)Slider speed should be 5 sec. On hover the slider should pause, i.e. image should not change. 
 ![Alt Text](https://github.com/poojathakor/sliderWithThumbnails/blob/master/repoimg/1.png)
 ![Alt Text](https://github.com/poojathakor/sliderWithThumbnails/blob/master/repoimg/2.PNG)
+
+Download timber from below link:
+https://shopify.github.io/Timber/
