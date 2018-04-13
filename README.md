@@ -1,4 +1,5 @@
 # sliderWithThumbnails
+# Used Timber, SCSS, basic js
 1)Slider should contain thumbnails of images in left side of page and slider on right side. In mobile thumb images should be below slider
 2)Slider image should contain text related to each image and a action button.
 3)Action button can be horizontally placed left, right, or center. It can be vertically placed top bottom and center. I.e. top left
